@@ -1,3 +1,3 @@
 # hello to coding world 
-#my first repository
+#my first repository on github
 
